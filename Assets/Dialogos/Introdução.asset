@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a265194f35e6944b13cf3487cc2d7a, type: 3}
+  m_Name: "Introdu\xE7\xE3o"
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: 41db317bd0da5be42a8c024369bc59bb, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "C\u2026 Cal\u2026 Calma, eu n\xE3o vou te fazer mal, na verdade eu te
+      trouxe aqui porque preciso da sua ajuda!"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: 41db317bd0da5be42a8c024369bc59bb, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Onde estou? Que lugar \xE9 este? O que \xE9 voc\xEA?"
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "J\xE1 vou lhe dar suas respostas. Mas refor\xE7o que preciso de sua ajuda. "
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: 41db317bd0da5be42a8c024369bc59bb, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Ajuda? Mas eu n\xE3o sei nem onde estou, nem quem \xE9 voc\xEA, sou s\xF3
+      uma pessoa comum, n\xE3o sei o que posso fazer para ajudar. "
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Comum n\xE3o, voc\xEA \xE9 especial! Voc\xEA \xE9 algu\xE9m que n\xE3o
+      adentra estes reinos a muito tempo, aqui \xE9 o Sonhar, todos ao descansar
+      aqui visitam para ter seus sonhos. Quanto a mim, eu sou um sonho, um sonho
+      bom, pelo menos um dos que sobrou sem a influ\xEAncia dos pesadelos."
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: b5857f0a1cef15643bf2d62ca911edfd, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Que papo doido \xE9 esse? Existem milhares de pessoas que n\xE3o sonham,
+      como posso ser especial por \u201Cadentrar o reino dos sonhos\u201D?."
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "\xC9 verdade, tem muitos que n\xE3o lembram dos seus sonhos, mas ainda
+      sonham\u2026 Voc\xEA realmente n\xE3o vem aqui faz tempo!"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: E o que isso muda? Por que isso seria um diferencial para te ajudar?
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "O reino dos sonhos perdeu seu governante, o rei do sonhar desapareceu
+      e com isso os pesadelos aproveitaram a oportunidade para controlar o lugar,
+      destruindo ou corrompendo sonhos. Eu fui um dos poucos que sobreviveu ao massacre,
+      por isso te chamei. N\xE3o tenho for\xE7a para combat\xEA-los, n\xE3o sem me
+      tornar parte do pesadelo."
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "J\xE1 voc\xEA, humano e sem sonhar por muito tempo, voc\xEA \xE9 como
+      uma tela em branco, resistente a tinta deles, aqui os humanos possuem poder
+      para moldar as coisas, ent\xE3o voc\xEA consegue influenciar nos pesadelos,
+      mas eles n\xE3o conseguem te influenciar, eu acho."
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Voc\xEA acha?"
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Voc\xEA \xE9 minha \xFAnica esperan\xE7a!"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: 41db317bd0da5be42a8c024369bc59bb, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Acho que encontrou a pessoa errada para isso, sinto muito, mas s\xF3 vou
+      voltar para minha casa\u2026"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: Como saio daqui?
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Ent\xE3o\u2026"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: COMO QUE EU SAIO DAQUI?
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Eu sou muito fraca, s\xF3 tive poder para te trazer aqui, n\xE3o tenho
+      como te enviar de volta."
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "VOC\xCA EST\xC1 DE BRINCADEIRA!? E o que eu fa\xE7o agora?"
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: af6804287a807e84faae4e84b88ea9db, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Derrote os pesadelos! Com isso, voc\xEA consegue enfraquecer a influ\xEAncia
+      deles e em algum momento eu vou ficar forte o suficiente para te levar de volta."
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Ent\xE3o no fim s\xF3 me resta te ajudar? Ou ficar parado e n\xE3o fazer
+      nada?"
+  - characterName: Protagonista
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: 41db317bd0da5be42a8c024369bc59bb, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "Como eu gostaria de s\xF3 ficar parado, mas vamos l\xE1, no fim vou ver
+      se realmente sou capaz de te ajudar, s\xF3 para voltar logo para casa, espero
+      que n\xE3o seja nada t\xE3o perigoso."
+  - characterName: Guia
+    backGround: {fileID: 21300000, guid: 6c343b6b7caff4d45b3ac637cc635a8b, type: 3}
+    characterLeft: {fileID: 21300000, guid: e74bbf40526250e4daa81b984ddabbd2, type: 3}
+    characterRight: {fileID: 21300000, guid: 9d5a276fffe42d94ea846bbf9d8686c4, type: 3}
+    text: "N\xE3o vai ser\u2026 \u2026Espero."
